@@ -20,8 +20,8 @@ Understand and master the golden section method and Newton's method in one-dimen
 Please use genetic algorithm to solve the following traveler problem:
 A traveler needs to travel to 10 cities in the country, and the coordinates of each city are shown in the cities.csv file. Design a reasonable route that minimizes the sum of the distances traveled by the traveler. 
 
-**Note:** Each city can only be visited once and the traveler has to return to the original city he came out of at the end.
-**Requirement:** Output the evolution curve of the fitness function and the map of the final chosen route.
+Note: Each city can only be visited once and the traveler has to return to the original city he came out of at the end.
+Requirement: Output the evolution curve of the fitness function and the map of the final chosen route.
 
 ### Exp No.4: Application of gradient descent method in artificial neural network
 
